@@ -1,0 +1,93 @@
+﻿<Page x:Class="Students.View.Pages.ChangePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Students.View.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" 
+      Loaded="Page_Loaded"
+      d:DesignWidth="800"
+      Title="Редактирование">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="0.2*"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0">
+            <StackPanel Orientation="Vertical"
+                        VerticalAlignment="Center"
+                        HorizontalAlignment="Center">
+                <StackPanel Orientation="Horizontal"
+                            Margin="0,0,0,20">
+                    <TextBlock Text="Имя:"
+                               Width="100"/>
+                    <TextBox Text="{Binding getUser.Name}"
+                             Width="200"
+                             x:Name="NameTb"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal"
+                            Margin="0,0,0,20">
+                    <TextBlock Text="Фамилия:"
+                               Width="100"/>
+                    <TextBox Text="{Binding getUser.Surname}"
+                             Width="200"
+                             x:Name="SurnameTb"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal"
+                            Margin="0,0,0,20">
+                    <TextBlock Text="Отчество:"
+                               Width="100"/>
+                    <TextBox Text="{Binding getUser.Patronymic}"
+                             Width="200" />
+                </StackPanel>
+                <StackPanel x:Name="PersonalDataPanel">
+                    <StackPanel Orientation="Horizontal"
+                                Margin="0,0,0,20">
+                        <TextBlock Text="Логин:"
+                                   Width="100"/>
+                        <TextBox Text="{Binding getUser.Login}"
+                                 Width="200"/>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal"
+                                Margin="0,0,0,20">
+                        <TextBlock Text="Пароль:"
+                                   Width="100"/>
+                        <TextBox Text="{Binding getUser.Password}"
+                                 Width="200"/>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal"
+                                Margin="0,0,0,20">
+                        <TextBlock Text="Роль:"
+                                   Width="100"/>
+                        <ComboBox x:Name="RoleCmb"
+                                  Width="200"
+                                  SelectedItem="{Binding getUser.Role}"
+                                  DisplayMemberPath="TItle"/>
+                    </StackPanel>
+                </StackPanel>
+
+            </StackPanel>
+        </Grid>
+
+        <Grid Grid.Row="1">
+            <StackPanel VerticalAlignment="Center"
+                        HorizontalAlignment="Center"
+                        Orientation="Horizontal">
+                <Button x:Name="backBtn"
+                        Content="Назад"
+                        Width="120"
+                        Height="35"
+                        Margin="0,0,20,0" 
+                        Click="backBtn_Click"/>
+                <Button x:Name="addBtn"
+                        Width="120"
+                        Height="35"
+                        Content="Сохранить"
+                        Click="addBtn_Click"/>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Page>

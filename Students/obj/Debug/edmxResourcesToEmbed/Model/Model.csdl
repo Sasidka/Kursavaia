@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BlackShopBaseModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Country">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Title" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="NiggaTable" Relationship="Self.FK_NiggaTable_Country" FromRole="Country" ToRole="NiggaTable" />
+  </EntityType>
+  <EntityType Name="NiggaTable">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="SIze" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Article" Type="Int32" Nullable="false" />
+    <Property Name="Speed" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="CountryCode" Type="Int32" Nullable="false" />
+    <Property Name="Price" Type="Decimal" Precision="19" Scale="4" Nullable="false" />
+    <NavigationProperty Name="Country" Relationship="Self.FK_NiggaTable_Country" FromRole="NiggaTable" ToRole="Country" />
+    <NavigationProperty Name="UserNigga" Relationship="Self.FK_UserNigga_NiggaTable" FromRole="NiggaTable" ToRole="UserNigga" />
+    <Property Name="Image" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="Role">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TItle" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="User" Relationship="Self.FK_User_Role" FromRole="Role" ToRole="User" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Surname" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Patronymic" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="RoleID" Type="Int32" />
+    <Property Name="Login" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Password" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Role" Relationship="Self.FK_User_Role" FromRole="User" ToRole="Role" />
+    <NavigationProperty Name="UserNigga" Relationship="Self.FK_UserNigga_User" FromRole="User" ToRole="UserNigga" />
+  </EntityType>
+  <EntityType Name="UserNigga">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserID" Type="Int32" Nullable="false" />
+    <Property Name="NiggaID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="NiggaTable" Relationship="Self.FK_UserNigga_NiggaTable" FromRole="UserNigga" ToRole="NiggaTable" />
+    <NavigationProperty Name="User" Relationship="Self.FK_UserNigga_User" FromRole="UserNigga" ToRole="User" />
+  </EntityType>
+  <Association Name="FK_NiggaTable_Country">
+    <End Role="Country" Type="Self.Country" Multiplicity="1" />
+    <End Role="NiggaTable" Type="Self.NiggaTable" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Country">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="NiggaTable">
+        <PropertyRef Name="CountryCode" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_UserNigga_NiggaTable">
+    <End Role="NiggaTable" Type="Self.NiggaTable" Multiplicity="1" />
+    <End Role="UserNigga" Type="Self.UserNigga" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NiggaTable">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="UserNigga">
+        <PropertyRef Name="NiggaID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_User_Role">
+    <End Role="Role" Type="Self.Role" Multiplicity="0..1" />
+    <End Role="User" Type="Self.User" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Role">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="User">
+        <PropertyRef Name="RoleID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_UserNigga_User">
+    <End Role="User" Type="Self.User" Multiplicity="1" />
+    <End Role="UserNigga" Type="Self.UserNigga" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="UserNigga">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="BlackShopBaseEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Country" EntityType="Self.Country" />
+    <EntitySet Name="NiggaTable" EntityType="Self.NiggaTable" />
+    <EntitySet Name="Role" EntityType="Self.Role" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
+    <EntitySet Name="User" EntityType="Self.User" />
+    <EntitySet Name="UserNigga" EntityType="Self.UserNigga" />
+    <AssociationSet Name="FK_NiggaTable_Country" Association="Self.FK_NiggaTable_Country">
+      <End Role="Country" EntitySet="Country" />
+      <End Role="NiggaTable" EntitySet="NiggaTable" />
+    </AssociationSet>
+    <AssociationSet Name="FK_UserNigga_NiggaTable" Association="Self.FK_UserNigga_NiggaTable">
+      <End Role="NiggaTable" EntitySet="NiggaTable" />
+      <End Role="UserNigga" EntitySet="UserNigga" />
+    </AssociationSet>
+    <AssociationSet Name="FK_User_Role" Association="Self.FK_User_Role">
+      <End Role="Role" EntitySet="Role" />
+      <End Role="User" EntitySet="User" />
+    </AssociationSet>
+    <AssociationSet Name="FK_UserNigga_User" Association="Self.FK_UserNigga_User">
+      <End Role="User" EntitySet="User" />
+      <End Role="UserNigga" EntitySet="UserNigga" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

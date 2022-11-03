@@ -1,0 +1,152 @@
+C:\Users\Riotok\Desktop\Программы\Вариант 1\Students\Students\obj\Debug\Students.csproj.SuggestedBindingRedirects.cache
+C:\Users\Riotok\Desktop\Программы\Вариант 1\Students\Students\obj\Debug\View\Pages\AddPage.g.cs
+C:\Users\Riotok\Desktop\Программы\Вариант 1\Students\Students\obj\Debug\View\Pages\MainViewPage.g.cs
+C:\Users\Riotok\Desktop\Программы\Вариант 1\Students\Students\obj\Debug\View\Windows\MainWindow.g.cs
+C:\Users\Riotok\Desktop\Программы\Вариант 1\Students\Students\obj\Debug\App.g.cs
+C:\Users\Riotok\Desktop\Программы\Вариант 1\Students\Students\obj\Debug\Students_Content.g.cs
+C:\Users\Riotok\Desktop\Программы\Вариант 1\Students\Students\obj\Debug\Students_MarkupCompile.cache
+C:\Users\Riotok\Desktop\Программы\Вариант 1\Students\Students\obj\Debug\Students_MarkupCompile.lref
+C:\Users\Riotok\Desktop\Программы\Вариант 1\Students\Students\bin\Debug\Students.exe.config
+C:\Users\Riotok\Desktop\Программы\Вариант 1\Students\Students\bin\Debug\Students.exe
+C:\Users\Riotok\Desktop\Программы\Вариант 1\Students\Students\bin\Debug\Students.pdb
+C:\Users\Riotok\Desktop\Программы\Вариант 1\Students\Students\bin\Debug\EntityFramework.dll
+C:\Users\Riotok\Desktop\Программы\Вариант 1\Students\Students\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Riotok\Desktop\Программы\Вариант 1\Students\Students\bin\Debug\EntityFramework.xml
+C:\Users\Riotok\Desktop\Программы\Вариант 1\Students\Students\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Riotok\Desktop\Программы\Вариант 1\Students\Students\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Riotok\Desktop\Программы\Вариант 1\Students\Students\obj\Debug\View\Pages\AddPage.baml
+C:\Users\Riotok\Desktop\Программы\Вариант 1\Students\Students\obj\Debug\View\Pages\MainViewPage.baml
+C:\Users\Riotok\Desktop\Программы\Вариант 1\Students\Students\obj\Debug\View\Windows\MainWindow.baml
+C:\Users\Riotok\Desktop\Программы\Вариант 1\Students\Students\obj\Debug\Students.g.resources
+C:\Users\Riotok\Desktop\Программы\Вариант 1\Students\Students\obj\Debug\Students.Properties.Resources.resources
+C:\Users\Riotok\Desktop\Программы\Вариант 1\Students\Students\obj\Debug\Students.csproj.GenerateResource.cache
+C:\Users\Riotok\Desktop\Программы\Вариант 1\Students\Students\obj\Debug\Students.csproj.CoreCompileInputs.cache
+C:\Users\Riotok\Desktop\Программы\Вариант 1\Students\Students\obj\Debug\Students.csproj.CopyComplete
+C:\Users\Riotok\Desktop\Программы\Вариант 1\Students\Students\obj\Debug\Students.exe
+C:\Users\Riotok\Desktop\Программы\Вариант 1\Students\Students\obj\Debug\Students.pdb
+C:\Users\Ferww1\Desktop\Students\Students\bin\Debug\Students.exe.config
+C:\Users\Ferww1\Desktop\Students\Students\bin\Debug\Students.exe
+C:\Users\Ferww1\Desktop\Students\Students\bin\Debug\Students.pdb
+C:\Users\Ferww1\Desktop\Students\Students\bin\Debug\EntityFramework.dll
+C:\Users\Ferww1\Desktop\Students\Students\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ferww1\Desktop\Students\Students\bin\Debug\EntityFramework.xml
+C:\Users\Ferww1\Desktop\Students\Students\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ferww1\Desktop\Students\Students\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Ferww1\Desktop\Students\Students\obj\Debug\Students.csproj.AssemblyReference.cache
+C:\Users\Ferww1\Desktop\Students\Students\obj\Debug\Students.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ferww1\Desktop\Students\Students\obj\Debug\View\Pages\AddPage.g.cs
+C:\Users\Ferww1\Desktop\Students\Students\obj\Debug\View\Pages\MainViewPage.g.cs
+C:\Users\Ferww1\Desktop\Students\Students\obj\Debug\View\Windows\MainWindow.g.cs
+C:\Users\Ferww1\Desktop\Students\Students\obj\Debug\App.g.cs
+C:\Users\Ferww1\Desktop\Students\Students\obj\Debug\Students_Content.g.cs
+C:\Users\Ferww1\Desktop\Students\Students\obj\Debug\Students_MarkupCompile.cache
+C:\Users\Ferww1\Desktop\Students\Students\obj\Debug\Students_MarkupCompile.lref
+C:\Users\Ferww1\Desktop\Students\Students\obj\Debug\View\Pages\AddPage.baml
+C:\Users\Ferww1\Desktop\Students\Students\obj\Debug\View\Pages\MainViewPage.baml
+C:\Users\Ferww1\Desktop\Students\Students\obj\Debug\View\Windows\MainWindow.baml
+C:\Users\Ferww1\Desktop\Students\Students\obj\Debug\Students.g.resources
+C:\Users\Ferww1\Desktop\Students\Students\obj\Debug\Students.Properties.Resources.resources
+C:\Users\Ferww1\Desktop\Students\Students\obj\Debug\Students.csproj.GenerateResource.cache
+C:\Users\Ferww1\Desktop\Students\Students\obj\Debug\Students.csproj.CoreCompileInputs.cache
+C:\Users\Ferww1\Desktop\Students\Students\obj\Debug\Students.csproj.CopyComplete
+C:\Users\Ferww1\Desktop\Students\Students\obj\Debug\Students.exe
+C:\Users\Ferww1\Desktop\Students\Students\obj\Debug\Students.pdb
+C:\Users\Ferww1\Desktop\Students\Students\obj\Debug\View\Pages\SignInPage.g.cs
+C:\Users\Ferww1\Desktop\Students\Students\obj\Debug\View\Pages\SignInPage.baml
+C:\Users\Ferww1\Desktop\Students\Students\obj\Debug\View\Pages\SignUpPage.g.cs
+C:\Users\Ferww1\Desktop\Students\Students\obj\Debug\View\Pages\SignUpPage.baml
+C:\Users\Ferww1\Desktop\Students\Students\obj\Debug\View\Pages\PersonalAreaPage.g.cs
+C:\Users\Ferww1\Desktop\Students\Students\obj\Debug\View\Pages\PersonalAreaPage.baml
+C:\Users\Ferww1\Desktop\Students\Students\obj\Debug\View\Pages\ChangePage.g.cs
+C:\Users\Ferww1\Desktop\Students\Students\obj\Debug\View\Pages\ChangePage.baml
+C:\Users\Ferww1\Desktop\Students\Students\obj\Debug\View\Pages\DataUserPage.g.cs
+C:\Users\Ferww1\Desktop\Students\Students\obj\Debug\View\Pages\DataUserPage.baml
+C:\Users\Ferww1\Desktop\Students\Students\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Ferww1\Desktop\Students\Students\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Ferww1\Desktop\Students\Students\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Ferww1\Desktop\Students\Students\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Ferww1\Desktop\Students\Students\obj\Debug\App.baml
+C:\Users\Ferww1\Desktop\Проекты\Students\Students\bin\Debug\Students.exe.config
+C:\Users\Ferww1\Desktop\Проекты\Students\Students\bin\Debug\Students.exe
+C:\Users\Ferww1\Desktop\Проекты\Students\Students\bin\Debug\Students.pdb
+C:\Users\Ferww1\Desktop\Проекты\Students\Students\bin\Debug\EntityFramework.dll
+C:\Users\Ferww1\Desktop\Проекты\Students\Students\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ferww1\Desktop\Проекты\Students\Students\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Ferww1\Desktop\Проекты\Students\Students\bin\Debug\EntityFramework.xml
+C:\Users\Ferww1\Desktop\Проекты\Students\Students\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ferww1\Desktop\Проекты\Students\Students\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Ferww1\Desktop\Проекты\Students\Students\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Ferww1\Desktop\Проекты\Students\Students\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Ferww1\Desktop\Проекты\Students\Students\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Ferww1\Desktop\Проекты\Students\Students\obj\Debug\Students.csproj.AssemblyReference.cache
+C:\Users\Ferww1\Desktop\Проекты\Students\Students\obj\Debug\Students.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ferww1\Desktop\Проекты\Students\Students\obj\Debug\View\Pages\AddPage.g.cs
+C:\Users\Ferww1\Desktop\Проекты\Students\Students\obj\Debug\View\Pages\ChangePage.g.cs
+C:\Users\Ferww1\Desktop\Проекты\Students\Students\obj\Debug\View\Pages\DataUserPage.g.cs
+C:\Users\Ferww1\Desktop\Проекты\Students\Students\obj\Debug\View\Pages\MainViewPage.g.cs
+C:\Users\Ferww1\Desktop\Проекты\Students\Students\obj\Debug\View\Pages\PersonalAreaPage.g.cs
+C:\Users\Ferww1\Desktop\Проекты\Students\Students\obj\Debug\View\Pages\SignInPage.g.cs
+C:\Users\Ferww1\Desktop\Проекты\Students\Students\obj\Debug\View\Pages\SignUpPage.g.cs
+C:\Users\Ferww1\Desktop\Проекты\Students\Students\obj\Debug\View\Windows\MainWindow.g.cs
+C:\Users\Ferww1\Desktop\Проекты\Students\Students\obj\Debug\App.g.cs
+C:\Users\Ferww1\Desktop\Проекты\Students\Students\obj\Debug\Students_Content.g.cs
+C:\Users\Ferww1\Desktop\Проекты\Students\Students\obj\Debug\Students_MarkupCompile.cache
+C:\Users\Ferww1\Desktop\Проекты\Students\Students\obj\Debug\Students_MarkupCompile.lref
+C:\Users\Ferww1\Desktop\Проекты\Students\Students\obj\Debug\App.baml
+C:\Users\Ferww1\Desktop\Проекты\Students\Students\obj\Debug\View\Pages\AddPage.baml
+C:\Users\Ferww1\Desktop\Проекты\Students\Students\obj\Debug\View\Pages\ChangePage.baml
+C:\Users\Ferww1\Desktop\Проекты\Students\Students\obj\Debug\View\Pages\DataUserPage.baml
+C:\Users\Ferww1\Desktop\Проекты\Students\Students\obj\Debug\View\Pages\MainViewPage.baml
+C:\Users\Ferww1\Desktop\Проекты\Students\Students\obj\Debug\View\Pages\PersonalAreaPage.baml
+C:\Users\Ferww1\Desktop\Проекты\Students\Students\obj\Debug\View\Pages\SignInPage.baml
+C:\Users\Ferww1\Desktop\Проекты\Students\Students\obj\Debug\View\Pages\SignUpPage.baml
+C:\Users\Ferww1\Desktop\Проекты\Students\Students\obj\Debug\View\Windows\MainWindow.baml
+C:\Users\Ferww1\Desktop\Проекты\Students\Students\obj\Debug\Students.g.resources
+C:\Users\Ferww1\Desktop\Проекты\Students\Students\obj\Debug\Students.Properties.Resources.resources
+C:\Users\Ferww1\Desktop\Проекты\Students\Students\obj\Debug\Students.csproj.GenerateResource.cache
+C:\Users\Ferww1\Desktop\Проекты\Students\Students\obj\Debug\Students.csproj.CoreCompileInputs.cache
+C:\Users\Ferww1\Desktop\Проекты\Students\Students\obj\Debug\Students.csproj.CopyComplete
+C:\Users\Ferww1\Desktop\Проекты\Students\Students\obj\Debug\Students.exe
+C:\Users\Ferww1\Desktop\Проекты\Students\Students\obj\Debug\Students.pdb
+C:\Users\Ferww1\OneDrive\Рабочий стол\Проекты\Students\Students\bin\Debug\Students.exe.config
+C:\Users\Ferww1\OneDrive\Рабочий стол\Проекты\Students\Students\bin\Debug\Students.exe
+C:\Users\Ferww1\OneDrive\Рабочий стол\Проекты\Students\Students\bin\Debug\Students.pdb
+C:\Users\Ferww1\OneDrive\Рабочий стол\Проекты\Students\Students\bin\Debug\EntityFramework.dll
+C:\Users\Ferww1\OneDrive\Рабочий стол\Проекты\Students\Students\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ferww1\OneDrive\Рабочий стол\Проекты\Students\Students\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Ferww1\OneDrive\Рабочий стол\Проекты\Students\Students\bin\Debug\EntityFramework.xml
+C:\Users\Ferww1\OneDrive\Рабочий стол\Проекты\Students\Students\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ferww1\OneDrive\Рабочий стол\Проекты\Students\Students\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Ferww1\OneDrive\Рабочий стол\Проекты\Students\Students\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Ferww1\OneDrive\Рабочий стол\Проекты\Students\Students\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Ferww1\OneDrive\Рабочий стол\Проекты\Students\Students\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Ferww1\OneDrive\Рабочий стол\Проекты\Students\Students\obj\Debug\Students.csproj.AssemblyReference.cache
+C:\Users\Ferww1\OneDrive\Рабочий стол\Проекты\Students\Students\obj\Debug\Students.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ferww1\OneDrive\Рабочий стол\Проекты\Students\Students\obj\Debug\View\Pages\AddPage.g.cs
+C:\Users\Ferww1\OneDrive\Рабочий стол\Проекты\Students\Students\obj\Debug\View\Pages\ChangePage.g.cs
+C:\Users\Ferww1\OneDrive\Рабочий стол\Проекты\Students\Students\obj\Debug\View\Pages\DataUserPage.g.cs
+C:\Users\Ferww1\OneDrive\Рабочий стол\Проекты\Students\Students\obj\Debug\View\Pages\MainViewPage.g.cs
+C:\Users\Ferww1\OneDrive\Рабочий стол\Проекты\Students\Students\obj\Debug\View\Pages\PersonalAreaPage.g.cs
+C:\Users\Ferww1\OneDrive\Рабочий стол\Проекты\Students\Students\obj\Debug\View\Pages\SignInPage.g.cs
+C:\Users\Ferww1\OneDrive\Рабочий стол\Проекты\Students\Students\obj\Debug\View\Pages\SignUpPage.g.cs
+C:\Users\Ferww1\OneDrive\Рабочий стол\Проекты\Students\Students\obj\Debug\View\Windows\MainWindow.g.cs
+C:\Users\Ferww1\OneDrive\Рабочий стол\Проекты\Students\Students\obj\Debug\App.g.cs
+C:\Users\Ferww1\OneDrive\Рабочий стол\Проекты\Students\Students\obj\Debug\Students_Content.g.cs
+C:\Users\Ferww1\OneDrive\Рабочий стол\Проекты\Students\Students\obj\Debug\Students_MarkupCompile.cache
+C:\Users\Ferww1\OneDrive\Рабочий стол\Проекты\Students\Students\obj\Debug\Students_MarkupCompile.lref
+C:\Users\Ferww1\OneDrive\Рабочий стол\Проекты\Students\Students\obj\Debug\App.baml
+C:\Users\Ferww1\OneDrive\Рабочий стол\Проекты\Students\Students\obj\Debug\View\Pages\AddPage.baml
+C:\Users\Ferww1\OneDrive\Рабочий стол\Проекты\Students\Students\obj\Debug\View\Pages\ChangePage.baml
+C:\Users\Ferww1\OneDrive\Рабочий стол\Проекты\Students\Students\obj\Debug\View\Pages\DataUserPage.baml
+C:\Users\Ferww1\OneDrive\Рабочий стол\Проекты\Students\Students\obj\Debug\View\Pages\MainViewPage.baml
+C:\Users\Ferww1\OneDrive\Рабочий стол\Проекты\Students\Students\obj\Debug\View\Pages\PersonalAreaPage.baml
+C:\Users\Ferww1\OneDrive\Рабочий стол\Проекты\Students\Students\obj\Debug\View\Pages\SignInPage.baml
+C:\Users\Ferww1\OneDrive\Рабочий стол\Проекты\Students\Students\obj\Debug\View\Pages\SignUpPage.baml
+C:\Users\Ferww1\OneDrive\Рабочий стол\Проекты\Students\Students\obj\Debug\View\Windows\MainWindow.baml
+C:\Users\Ferww1\OneDrive\Рабочий стол\Проекты\Students\Students\obj\Debug\Students.g.resources
+C:\Users\Ferww1\OneDrive\Рабочий стол\Проекты\Students\Students\obj\Debug\Students.Properties.Resources.resources
+C:\Users\Ferww1\OneDrive\Рабочий стол\Проекты\Students\Students\obj\Debug\Students.csproj.GenerateResource.cache
+C:\Users\Ferww1\OneDrive\Рабочий стол\Проекты\Students\Students\obj\Debug\Students.csproj.CoreCompileInputs.cache
+C:\Users\Ferww1\OneDrive\Рабочий стол\Проекты\Students\Students\obj\Debug\Students.csproj.CopyComplete
+C:\Users\Ferww1\OneDrive\Рабочий стол\Проекты\Students\Students\obj\Debug\Students.exe
+C:\Users\Ferww1\OneDrive\Рабочий стол\Проекты\Students\Students\obj\Debug\Students.pdb
