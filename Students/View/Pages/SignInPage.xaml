@@ -19,7 +19,7 @@
 
         <StackPanel HorizontalAlignment="Left"
                     Margin="291,70,0,0">
-            <Label Content="Black Shop Prod."
+            <Label Content="Кадровое агентство"
                    FontWeight="Black"
                    FontSize="25"/>
         </StackPanel>

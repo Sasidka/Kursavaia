@@ -26,7 +26,7 @@ namespace Students.View.Pages
         public static NiggaTable user { get; set; }
         
         public OpenFileDialog file = new OpenFileDialog();
-        public AddPage(NiggaTable cUser)
+        public AddPage(NiggaTable cUser)    
         {
             InitializeComponent();
             user= cUser;

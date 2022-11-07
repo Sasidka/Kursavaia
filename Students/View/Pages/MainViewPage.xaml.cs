@@ -83,13 +83,13 @@ namespace Students.View.Pages
         }
 
         private void addBtn_Click(object sender, RoutedEventArgs e)
-        {
+        {   
             NavigationService.Navigate(new AddPage(new NiggaTable()));
         }
 
         private void editBtn_Click(object sender, RoutedEventArgs e) 
         {
-            try
+                try
             {
                 if (listVieww.SelectedItem != null)
                 {
